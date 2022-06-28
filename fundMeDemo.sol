@@ -4,7 +4,7 @@ pragma solidity 0.8.7;
 
 error fundMe_notEnoughMoney();
 
-contract fundMe {
+contract fundMeDemo {
 
     uint256 public total_funds;
     address[] public s_funders;
